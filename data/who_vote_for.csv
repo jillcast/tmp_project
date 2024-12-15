@@ -1,0 +1,374 @@
+state,answer_set,facility_name,who_vote_for,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Donald J. Trump,261,508,0.5137795275590551
+IL,all-surveys,"Cook County, IL",Donald J. Trump,241,421,0.5724465558194775
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Donald J. Trump,140,233,0.6008583690987125
+CA,all-surveys,"Santa Clara County, CA",Donald J. Trump,138,352,0.39204545454545453
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Donald J. Trump,91,153,0.5947712418300654
+TX,all-surveys,"Travis County Jail, TX",Donald J. Trump,90,166,0.5421686746987951
+CA,all-surveys,"Fresno County, CA",Donald J. Trump,85,167,0.5089820359281437
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Joe Biden,83,508,0.16338582677165353
+CA,all-surveys,"Stanislaus County, CA",Donald J. Trump,83,146,0.5684931506849316
+CA,all-surveys,"Santa Clara County, CA",Joe Biden,82,352,0.23295454545454544
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Wouldn't vote,69,508,0.13582677165354332
+AZ,all-surveys,"Pima County Jail, AZ",Donald J. Trump,66,147,0.4489795918367347
+CO,all-surveys,"Denver County Jail, CO",Donald J. Trump,63,104,0.6057692307692307
+IL,all-surveys,"Winnebago County, IL",Donald J. Trump,61,108,0.5648148148148148
+IL,all-surveys,"Cook County, IL",Joe Biden,58,421,0.1377672209026128
+TX,all-surveys,"MTC: Giles Dalby, TX",Donald J. Trump,56,89,0.6292134831460674
+PA,all-surveys,"Dauphin County Jail, PA",Donald J. Trump,55,84,0.6547619047619048
+PA,all-surveys,"Lackawana County, PA",Donald J. Trump,53,86,0.6162790697674418
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Third-Party Candidate,52,508,0.10236220472440945
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Donald J. Trump,52,82,0.6341463414634146
+OH,all-surveys,"Mahoning County Justice Center, OH",Donald J. Trump,47,78,0.6025641025641025
+WV,all-surveys,WV DCR North Central Regional Jail,Donald J. Trump,47,75,0.6266666666666667
+CA,all-surveys,"San Joaquin County Jail, CA",Donald J. Trump,46,79,0.5822784810126582
+CA,all-surveys,"Santa Clara County, CA",Third-Party Candidate,46,352,0.13068181818181818
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Donald J. Trump,46,76,0.6052631578947368
+WA,all-surveys,"Yakima County, WA",Donald J. Trump,46,86,0.5348837209302325
+CA,all-surveys,"Orange County, CA - Theo Lacy",Donald J. Trump,45,92,0.4891304347826087
+CO,all-surveys,"Weld County, CO",Donald J. Trump,45,92,0.4891304347826087
+WA,all-surveys,"Spokane County Jail, WA",Donald J. Trump,45,74,0.6081081081081081
+IL,all-surveys,"Cook County, IL",Don't know,44,421,0.10451306413301663
+CA,all-surveys,"Santa Clara County, CA",Don't know,43,352,0.12215909090909091
+MI,all-surveys,"Kent County, MI ",Donald J. Trump,41,71,0.5774647887323944
+NC,all-surveys,"Cumberland County, NC",Donald J. Trump,41,72,0.5694444444444444
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Don't know,40,508,0.07874015748031496
+IN,all-surveys,"Hamilton County Main Jail, IN",Donald J. Trump,40,64,0.625
+MO,all-surveys,"St. Louis County Jail, MO",Donald J. Trump,40,74,0.5405405405405406
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Donald J. Trump,39,69,0.5652173913043478
+CA,all-surveys,"Santa Clara County, CA",Wouldn't vote,39,352,0.11079545454545454
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Donald J. Trump,39,64,0.609375
+VA,all-surveys,"Chesapeake Correctional Center, VA",Donald J. Trump,39,64,0.609375
+IL,all-surveys,"Cook County, IL",Wouldn't vote,38,421,0.09026128266033254
+NY,all-surveys,"Albany County Correctional Facility, NY",Donald J. Trump,38,72,0.5277777777777778
+CO,all-surveys,"Mesa County, CO",Donald J. Trump,37,61,0.6065573770491803
+MA,all-surveys,"Essex County Middleton HOC, MA",Donald J. Trump,37,60,0.6166666666666667
+TX,all-surveys,"Guadalupe County, TX",Donald J. Trump,37,52,0.7115384615384616
+CO,all-surveys,"Jefferson County Detention Facility, CO",Donald J. Trump,36,48,0.75
+GA,all-surveys,"Athens Clarke County Jail, GA",Donald J. Trump,35,52,0.6730769230769231
+PA,all-surveys,"Lehigh County, PA",Donald J. Trump,35,59,0.5932203389830508
+PA,all-surveys,"Westmoreland County, PA",Donald J. Trump,35,57,0.6140350877192983
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Donald J. Trump,34,72,0.4722222222222222
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Donald J. Trump,34,55,0.6181818181818182
+CA,all-surveys,"Fresno County, CA",Joe Biden,33,167,0.19760479041916168
+FL,all-surveys,Santa Rosa County FL,Donald J. Trump,32,41,0.7804878048780488
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Donald J. Trump,32,65,0.49230769230769234
+GA,all-surveys,"Bibb County Jail, GA",Donald J. Trump,31,43,0.7209302325581395
+MA,all-surveys,"Middlesex County House of Corrections, MA",Donald J. Trump,31,52,0.5961538461538461
+NY,all-surveys,"Suffolk County, NY ",Donald J. Trump,31,52,0.5961538461538461
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Wouldn't vote,30,233,0.12875536480686695
+MA,all-surveys,"Bristol County House of Correction, MA",Donald J. Trump,30,48,0.625
+MO,all-surveys,"Cape Girardeau County Jail, MO",Donald J. Trump,30,49,0.6122448979591837
+WV,all-surveys,WV DCR Southwestern Regional Jail,Donald J. Trump,30,35,0.8571428571428571
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Donald J. Trump,30,39,0.7692307692307693
+MA,all-surveys,"Worcester County Jail, MA",Donald J. Trump,29,51,0.5686274509803921
+IL,all-surveys,"Cook County, IL",Third-Party Candidate,28,421,0.0665083135391924
+MA,all-surveys,"Suffolk County Jail, MA",Donald J. Trump,28,62,0.45161290322580644
+MI,all-surveys,"Macomb County, MI",Donald J. Trump,28,53,0.5283018867924528
+TX,all-surveys,"McLennan County, TX",Donald J. Trump,28,57,0.49122807017543857
+TX,all-surveys,"Potter County Detention, TX",Donald J. Trump,28,52,0.5384615384615384
+UT,all-surveys,"Salt Lake City County, UT",Donald J. Trump,28,50,0.56
+CO,all-surveys,"Pueblo County, CO",Donald J. Trump,27,64,0.421875
+TX,all-surveys,"Collin County, TX ",Donald J. Trump,27,52,0.5192307692307693
+PA,all-surveys,"Berks County Jail, PA",Donald J. Trump,26,49,0.5306122448979592
+FL,all-surveys,"Lee County, FL",Donald J. Trump,25,38,0.6578947368421053
+TX,all-surveys,"Johnson County, TX",Donald J. Trump,25,38,0.6578947368421053
+VA,all-surveys,"Western Regional, VA",Donald J. Trump,25,37,0.6756756756756757
+AL,all-surveys,"Etowah County Jail, AL",Donald J. Trump,24,31,0.7741935483870968
+AZ,all-surveys,"Pima County Jail, AZ",Joe Biden,24,147,0.16326530612244897
+FL,all-surveys,"Sarasota County, FL",Donald J. Trump,24,48,0.5
+IL,all-surveys,"Kane County, IL",Donald J. Trump,24,39,0.6153846153846154
+NY,all-surveys,"Erie County, NY",Donald J. Trump,24,45,0.5333333333333333
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Joe Biden,23,233,0.09871244635193133
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Wouldn't vote,23,153,0.1503267973856209
+PA,all-surveys,"Washington County, PA ",Donald J. Trump,23,45,0.5111111111111111
+VA,all-surveys,"Pamunkey Regional Jail, VA",Donald J. Trump,23,38,0.6052631578947368
+CA,all-surveys,"Butte County, CA",Donald J. Trump,22,46,0.4782608695652174
+CA,all-surveys,"Madera County, CA",Donald J. Trump,22,44,0.5
+CO,all-surveys,"Douglas Detention Center, CO",Donald J. Trump,22,33,0.6666666666666666
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Donald J. Trump,22,33,0.6666666666666666
+TX,all-surveys,"Travis County Jail, TX",Third-Party Candidate,22,166,0.13253012048192772
+AZ,all-surveys,"Pima County Jail, AZ",Don't know,21,147,0.14285714285714285
+CA,all-surveys,"Santa Barbara County, CA",Donald J. Trump,21,53,0.39622641509433965
+FL,all-surveys,"Escambia County Jail, FL",Donald J. Trump,21,35,0.6
+CA,all-surveys,"Fresno County, CA",Wouldn't vote,20,167,0.11976047904191617
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Don't know,20,233,0.08583690987124463
+NJ,all-surveys,"Bergen County, NJ",Donald J. Trump,20,35,0.5714285714285714
+NY,all-surveys,"Niagara County Correctional Facility, NY",Donald J. Trump,20,39,0.5128205128205128
+TX,all-surveys,"Travis County Jail, TX",Wouldn't vote,20,166,0.12048192771084337
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Donald J. Trump,20,42,0.47619047619047616
+WV,all-surveys,WV DCR Western Regional Jail,Donald J. Trump,20,28,0.7142857142857143
+CA,all-surveys,"Stanislaus County, CA",Third-Party Candidate,19,146,0.13013698630136986
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Donald J. Trump,19,27,0.7037037037037037
+NY,all-surveys,"Onondaga County-Justice Center, NY",Donald J. Trump,19,26,0.7307692307692307
+PA,all-surveys,"Lebanon County, PA",Donald J. Trump,19,46,0.41304347826086957
+CA,all-surveys,"Orange County, CA - Theo Lacy",Joe Biden,18,92,0.1956521739130435
+GA,all-surveys,"Dekalb County Jail, GA",Donald J. Trump,18,34,0.5294117647058824
+IL,all-surveys,"Winnebago County, IL",Don't know,18,108,0.16666666666666666
+NE,all-surveys,"Lancaster County, NE",Donald J. Trump,18,39,0.46153846153846156
+OH,all-surveys,"Lorain County, OH ",Donald J. Trump,18,28,0.6428571428571429
+OH,all-surveys,"Summit County, OH",Donald J. Trump,18,31,0.5806451612903226
+PA,all-surveys,"Fayette County, PA",Donald J. Trump,18,27,0.6666666666666666
+AZ,all-surveys,"Pima County Jail, AZ",Third-Party Candidate,17,147,0.11564625850340136
+AZ,all-surveys,"Pima County Jail, AZ",Wouldn't vote,17,147,0.11564625850340136
+AZ,all-surveys,"Pinal County Jail, AZ",Donald J. Trump,17,35,0.4857142857142857
+GA,all-surveys,"Cobb County, GA",Donald J. Trump,17,34,0.5
+MI,all-surveys,"Livingston County, MI",Donald J. Trump,17,25,0.68
+TX,all-surveys,"Travis County Jail, TX",Joe Biden,17,166,0.10240963855421686
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Third-Party Candidate,16,233,0.06866952789699571
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Joe Biden,16,72,0.2222222222222222
+CA,all-surveys,"Fresno County, CA",Don't know,15,167,0.08982035928143713
+CA,all-surveys,"Orange County, CA - Theo Lacy",Don't know,15,92,0.16304347826086957
+CA,all-surveys,"Stanislaus County, CA",Wouldn't vote,15,146,0.10273972602739725
+CO,all-surveys,"Denver County Jail, CO",Joe Biden,15,104,0.14423076923076922
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Wouldn't vote,15,76,0.19736842105263158
+MA,all-surveys,"Norfolk County Jail, MA",Donald J. Trump,15,23,0.6521739130434783
+MT,all-surveys,"Missoula County, MT",Donald J. Trump,15,21,0.7142857142857143
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Donald J. Trump,15,28,0.5357142857142857
+PA,all-surveys,"Franklin County, PA",Donald J. Trump,15,25,0.6
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Donald J. Trump,15,25,0.6
+TX,all-surveys,"Wichita County, TX ",Donald J. Trump,15,28,0.5357142857142857
+UT,all-surveys,"Beaver County, UT",Donald J. Trump,15,27,0.5555555555555556
+WV,all-surveys,WV DCR Central Regional Jail,Donald J. Trump,15,23,0.6521739130434783
+AZ,all-surveys,"Yavapai County Jail, AZ",Donald J. Trump,14,23,0.6086956521739131
+CA,all-surveys,"Stanislaus County, CA",Joe Biden,14,146,0.0958904109589041
+CO,all-surveys,"Denver County Jail, CO",Wouldn't vote,14,104,0.1346153846153846
+CO,all-surveys,"Weld County, CO",Third-Party Candidate,14,92,0.15217391304347827
+KY,all-surveys,"Madison County, KY",Donald J. Trump,14,18,0.7777777777777778
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Joe Biden,14,153,0.0915032679738562
+OR,all-surveys,"Lincoln County, OR",Donald J. Trump,14,35,0.4
+PA,all-surveys,"Delaware County, PA",Donald J. Trump,14,25,0.56
+TX,all-surveys,"Hunt County, TX",Donald J. Trump,14,22,0.6363636363636364
+WI,all-surveys,"Dodge County, WI",Donald J. Trump,14,26,0.5384615384615384
+WV,all-surveys,WV DCR South Central Regional Jail,Donald J. Trump,14,24,0.5833333333333334
+WV,all-surveys,WV DCR Southern Regional Jail,Donald J. Trump,14,18,0.7777777777777778
+CA,all-surveys,"Alameda County-Santa Rita, CA",Joe Biden,13,34,0.38235294117647056
+CA,all-surveys,"San Joaquin County Jail, CA",Joe Biden,13,79,0.16455696202531644
+GA,all-surveys,"Thomas County Detention, GA",Donald J. Trump,13,18,0.7222222222222222
+IA,all-surveys,"Polk County, IA ",Donald J. Trump,13,31,0.41935483870967744
+IN,all-surveys,"Boone County, IN",Donald J. Trump,13,24,0.5416666666666666
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Donald J. Trump,13,26,0.5
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Donald J. Trump,13,25,0.52
+NM,all-surveys,"Luna County Detention Center, NM",Donald J. Trump,13,26,0.5
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Don't know,13,153,0.08496732026143791
+OH,all-surveys,"Muskingum County, OH",Donald J. Trump,13,22,0.5909090909090909
+PA,all-surveys,"Cambria County Prison, PA",Donald J. Trump,13,18,0.7222222222222222
+PA,all-surveys,"Lackawana County, PA",Joe Biden,13,86,0.1511627906976744
+TX,all-surveys,"GEO Group-Kinney County, TX",Donald J. Trump,13,16,0.8125
+TX,all-surveys,"MTC: Giles Dalby, TX",Wouldn't vote,13,89,0.14606741573033707
+VA,all-surveys,"Arlington County Detention Center, VA",Donald J. Trump,13,29,0.4482758620689655
+AL,all-surveys,"Riverside Regional, VA",Donald J. Trump,12,24,0.5
+CA,all-surveys,"Santa Barbara County, CA",Joe Biden,12,53,0.22641509433962265
+CO,all-surveys,"Weld County, CO",Joe Biden,12,92,0.13043478260869565
+FL,all-surveys,"Nassau County, FL",Donald J. Trump,12,17,0.7058823529411765
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Donald J. Trump,12,24,0.5
+MI,all-surveys,"Genesee County, MI",Donald J. Trump,12,23,0.5217391304347826
+NY,all-surveys,"Chautauqua County, NY",Donald J. Trump,12,27,0.4444444444444444
+OH,all-surveys,"Greene County, OH: Adult Detention",Donald J. Trump,12,20,0.6
+OH,all-surveys,"Portage County, OH",Donald J. Trump,12,17,0.7058823529411765
+PA,all-surveys,"Indiana County, PA",Donald J. Trump,12,15,0.8
+PA,all-surveys,"Lebanon County, PA",Joe Biden,12,46,0.2608695652173913
+TX,all-surveys,"McLennan County, TX",Joe Biden,12,57,0.21052631578947367
+TX,all-surveys,"Potter County Detention, TX",Wouldn't vote,12,52,0.23076923076923078
+UT,all-surveys,"Iron County, UT",Donald J. Trump,12,15,0.8
+WA,all-surveys,"Whatcom County, WA - Main Jail",Donald J. Trump,12,23,0.5217391304347826
+WA,all-surveys,"Yakima County, WA",Wouldn't vote,12,86,0.13953488372093023
+WI,all-surveys,"Rock County, WI",Donald J. Trump,12,26,0.46153846153846156
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,Donald J. Trump,12,16,0.75
+CA,all-surveys,"Fresno County, CA",Third-Party Candidate,11,167,0.0658682634730539
+CA,all-surveys,"Stanislaus County, CA",Don't know,11,146,0.07534246575342465
+CA,all-surveys,"Yuba County, CA ",Donald J. Trump,11,13,0.8461538461538461
+CO,all-surveys,"Pueblo County, CO",Wouldn't vote,11,64,0.171875
+CO,all-surveys,"Weld County, CO",Wouldn't vote,11,92,0.11956521739130435
+IL,all-surveys,"Winnebago County, IL",Joe Biden,11,108,0.10185185185185185
+KY,all-surveys,"Clay County Detention Center, KY",Donald J. Trump,11,13,0.8461538461538461
+MA,all-surveys,"Hampshire County, MA",Donald J. Trump,11,18,0.6111111111111112
+MA,all-surveys,"Suffolk County Jail, MA",Joe Biden,11,62,0.1774193548387097
+MI,all-surveys,"Kalamazoo County, MI",Donald J. Trump,11,20,0.55
+MI,all-surveys,"Kent County, MI ",Joe Biden,11,71,0.15492957746478872
+NC,all-surveys,Durham County NC - Detention Facility,Donald J. Trump,11,20,0.55
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Joe Biden,11,65,0.16923076923076924
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Donald J. Trump,11,18,0.6111111111111112
+NM,all-surveys,"Lea County Sheriff's Office, NM",Donald J. Trump,11,18,0.6111111111111112
+NY,all-surveys,"Albany County Correctional Facility, NY",Wouldn't vote,11,72,0.1527777777777778
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Wouldn't vote,11,64,0.171875
+NY,all-surveys,"Ulster County Jail, NY",Donald J. Trump,11,17,0.6470588235294118
+OH,all-surveys,"Mahoning County Justice Center, OH",Wouldn't vote,11,78,0.14102564102564102
+SC,all-surveys,"Aiken County, SC",Donald J. Trump,11,14,0.7857142857142857
+TX,all-surveys,"Collin County, TX ",Wouldn't vote,11,52,0.21153846153846154
+TX,all-surveys,"Travis County Jail, TX",Don't know,11,166,0.06626506024096386
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Wouldn't vote,11,82,0.13414634146341464
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Wouldn't vote,10,69,0.14492753623188406
+CO,all-surveys,"Larimer County, CO",Donald J. Trump,10,28,0.35714285714285715
+CO,all-surveys,"Pueblo County, CO",Third-Party Candidate,10,64,0.15625
+CO,all-surveys,"Weld County, CO",Don't know,10,92,0.10869565217391304
+FL,all-surveys,"Monroe County-Key West, FL",Donald J. Trump,10,17,0.5882352941176471
+GA,all-surveys,"Columbia County Detention Center, GA",Donald J. Trump,10,21,0.47619047619047616
+GA,all-surveys,"Forsyth County Detention Center, GA",Donald J. Trump,10,16,0.625
+IL,all-surveys,"Winnebago County, IL",Third-Party Candidate,10,108,0.09259259259259259
+MA,all-surveys,"Franklin County Jail, MA",Donald J. Trump,10,12,0.8333333333333334
+MA,all-surveys,"Suffolk County Jail, MA",Wouldn't vote,10,62,0.16129032258064516
+ME,all-surveys,"Two Bridges Regional, ME",Donald J. Trump,10,18,0.5555555555555556
+MO,all-surveys,"St. Louis County Jail, MO",Joe Biden,10,74,0.13513513513513514
+NC,all-surveys,"Cumberland County, NC",Joe Biden,10,72,0.1388888888888889
+NH,all-surveys,"Hillsborough County House of Corrections, NH",Donald J. Trump,10,17,0.5882352941176471
+NJ,all-surveys,"Cumberland County Jail, NJ",Donald J. Trump,10,15,0.6666666666666666
+NJ,all-surveys,"Ocean County, NJ",Donald J. Trump,10,16,0.625
+NY,all-surveys,"Albany County Correctional Facility, NY",Joe Biden,10,72,0.1388888888888889
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Third-Party Candidate,10,153,0.06535947712418301
+PA,all-surveys,"Dauphin County Jail, PA",Wouldn't vote,10,84,0.11904761904761904
+VA,all-surveys,"Chesapeake Correctional Center, VA",Joe Biden,10,64,0.15625
+WA,all-surveys,"Yakima County, WA",Joe Biden,10,86,0.11627906976744186
+WV,all-surveys,WV DCR North Central Regional Jail,Wouldn't vote,10,75,0.13333333333333333
+AZ,all-surveys,"Apache County Jail, AZ",Donald J. Trump,9,21,0.42857142857142855
+CA,all-surveys,"Butte County, CA",Wouldn't vote,9,46,0.1956521739130435
+CA,all-surveys,"Tehama County, CA",Donald J. Trump,9,13,0.6923076923076923
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Don't know,9,72,0.125
+CO,all-surveys,"Mesa County, CO",Wouldn't vote,9,61,0.14754098360655737
+CO,all-surveys,"Pueblo County, CO",Joe Biden,9,64,0.140625
+GA,all-surveys,"Catoosa County Jail, GA",Donald J. Trump,9,15,0.6
+IN,all-surveys,"Hamilton County Main Jail, IN",Wouldn't vote,9,64,0.140625
+MI,all-surveys,"Kent County, MI ",Don't know,9,71,0.1267605633802817
+MI,all-surveys,"Macomb County, MI",Third-Party Candidate,9,53,0.16981132075471697
+MO,all-surveys,"St. Louis County Jail, MO",Wouldn't vote,9,74,0.12162162162162163
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Don't know,9,65,0.13846153846153847
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Wouldn't vote,9,65,0.13846153846153847
+NM,all-surveys,"Eddy County Detention Center, NM",Donald J. Trump,9,18,0.5
+OH,all-surveys,"Mahoning County Justice Center, OH",Joe Biden,9,78,0.11538461538461539
+PA,all-surveys,"Allegheny County Jail, PA",Donald J. Trump,9,16,0.5625
+PA,all-surveys,"Berks County Jail, PA",Wouldn't vote,9,49,0.1836734693877551
+PA,all-surveys,"Lackawana County, PA",Third-Party Candidate,9,86,0.10465116279069768
+PA,all-surveys,"Lebanon County, PA",Wouldn't vote,9,46,0.1956521739130435
+PA,all-surveys,"Lehigh County, PA",Wouldn't vote,9,59,0.15254237288135594
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Joe Biden,9,55,0.16363636363636364
+PA,all-surveys,"Washington County, PA ",Wouldn't vote,9,45,0.2
+TX,all-surveys,"MTC: Giles Dalby, TX",Joe Biden,9,89,0.10112359550561797
+TX,all-surveys,"McLennan County, TX",Wouldn't vote,9,57,0.15789473684210525
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Donald J. Trump,9,16,0.5625
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Donald J. Trump,9,13,0.6923076923076923
+WV,all-surveys,WV DCR North Central Regional Jail,Third-Party Candidate,9,75,0.12
+CA,all-surveys,"Alameda County-Santa Rita, CA",Donald J. Trump,8,34,0.23529411764705882
+CA,all-surveys,"Madera County, CA",Wouldn't vote,8,44,0.18181818181818182
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Joe Biden,8,69,0.11594202898550725
+CA,all-surveys,"Orange County, CA - Theo Lacy",Third-Party Candidate,8,92,0.08695652173913043
+CA,all-surveys,"San Joaquin County Jail, CA",Third-Party Candidate,8,79,0.10126582278481013
+CA,all-surveys,"Santa Barbara County, CA",Don't know,8,53,0.1509433962264151
+CO,all-surveys,"Mesa County, CO",Joe Biden,8,61,0.13114754098360656
+GA,all-surveys,"Dekalb County Jail, GA",Joe Biden,8,34,0.23529411764705882
+IL,all-surveys,Edovo Go - General,Donald J. Trump,8,14,0.5714285714285714
+IN,all-surveys,"Hamilton County Main Jail, IN",Joe Biden,8,64,0.125
+MA,all-surveys,"Berkshire County House of Corrections, MA",Donald J. Trump,8,20,0.4
+MA,all-surveys,"Essex County Middleton HOC, MA",Joe Biden,8,60,0.13333333333333333
+MA,all-surveys,"Worcester County Jail, MA",Wouldn't vote,8,51,0.1568627450980392
+MI,all-surveys,"Macomb County, MI",Wouldn't vote,8,53,0.1509433962264151
+MO,all-surveys,"St. Louis County Jail, MO",Don't know,8,74,0.10810810810810811
+NC,all-surveys,"Cumberland County, NC",Don't know,8,72,0.1111111111111111
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Donald J. Trump,8,17,0.47058823529411764
+NY,all-surveys,"Erie County, NY",Joe Biden,8,45,0.17777777777777778
+NY,all-surveys,"Onondaga County, NY",Donald J. Trump,8,15,0.5333333333333333
+OH,all-surveys,"Columbiana County Jail, OH",Donald J. Trump,8,17,0.47058823529411764
+OH,all-surveys,"Scioto County, OH ",Donald J. Trump,8,10,0.8
+OR,all-surveys,"Lincoln County, OR",Joe Biden,8,35,0.22857142857142856
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",Donald J. Trump,8,15,0.5333333333333333
+PA,all-surveys,"Delaware County, PA",Joe Biden,8,25,0.32
+PA,all-surveys,"Lackawana County, PA",Wouldn't vote,8,86,0.09302325581395349
+SC,all-surveys,"Clarendon County, SC",Donald J. Trump,8,13,0.6153846153846154
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Donald J. Trump,8,11,0.7272727272727273
+VA,all-surveys,"Chesapeake Correctional Center, VA",Don't know,8,64,0.125
+VA,all-surveys,"Meherrin River Alberta, VA",Donald J. Trump,8,15,0.5333333333333333
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Wouldn't vote,8,42,0.19047619047619047
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Third-Party Candidate,8,82,0.0975609756097561
+WA,all-surveys,"Spokane County Jail, WA",Third-Party Candidate,8,74,0.10810810810810811
+WA,all-surveys,"Spokane County Jail, WA",Wouldn't vote,8,74,0.10810810810810811
+WA,all-surveys,"Yakima County, WA",Third-Party Candidate,8,86,0.09302325581395349
+CA,all-surveys,"Madera County, CA",Joe Biden,7,44,0.1590909090909091
+CA,all-surveys,"San Joaquin County Jail, CA",Don't know,7,79,0.08860759493670886
+CA,all-surveys,"Sonoma County, CA",Donald J. Trump,7,18,0.3888888888888889
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Donald J. Trump,7,12,0.5833333333333334
+CO,all-surveys,"Denver County Jail, CO",Third-Party Candidate,7,104,0.0673076923076923
+CO,all-surveys,"Pueblo County, CO",Don't know,7,64,0.109375
+DC,all-surveys,DC DOC: Central Detention Facility,Donald J. Trump,7,13,0.5384615384615384
+FL,all-surveys,"Sarasota County, FL",Third-Party Candidate,7,48,0.14583333333333334
+GA,all-surveys,"Athens Clarke County Jail, GA",Joe Biden,7,52,0.1346153846153846
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Joe Biden,7,76,0.09210526315789473
+IL,all-surveys,"Madison County, IL",Donald J. Trump,7,16,0.4375
+MA,all-surveys,"Bristol County House of Correction, MA",Wouldn't vote,7,48,0.14583333333333334
+MA,all-surveys,"Middlesex County House of Corrections, MA",Joe Biden,7,52,0.1346153846153846
+MD,all-surveys,"Washington County Detention Center, MD",Donald J. Trump,7,14,0.5
+MO,all-surveys,"Cape Girardeau County Jail, MO",Third-Party Candidate,7,49,0.14285714285714285
+MO,all-surveys,"Cape Girardeau County Jail, MO",Wouldn't vote,7,49,0.14285714285714285
+NC,all-surveys,"Cumberland County, NC",Wouldn't vote,7,72,0.09722222222222222
+NE,all-surveys,"Lancaster County, NE",Third-Party Candidate,7,39,0.1794871794871795
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Don't know,7,28,0.25
+NM,all-surveys,"Curry County Detention Center, NM",Donald J. Trump,7,13,0.5384615384615384
+NM,all-surveys,"Sandoval County Detention Center, NM",Donald J. Trump,7,13,0.5384615384615384
+NY,all-surveys,"Albany County Correctional Facility, NY",Third-Party Candidate,7,72,0.09722222222222222
+NY,all-surveys,"Erie County, NY",Wouldn't vote,7,45,0.15555555555555556
+NY,all-surveys,"Niagara County Correctional Facility, NY",Wouldn't vote,7,39,0.1794871794871795
+NY,all-surveys,"Saratoga County Correctional Facility, NY",Donald J. Trump,7,11,0.6363636363636364
+OH,all-surveys,"Ashland County, OH ",Donald J. Trump,7,9,0.7777777777777778
+OR,all-surveys,"Lincoln County, OR",Third-Party Candidate,7,35,0.2
+PA,all-surveys,"Cumberland County Prison, PA",Donald J. Trump,7,12,0.5833333333333334
+PA,all-surveys,"Dauphin County Jail, PA",Third-Party Candidate,7,84,0.08333333333333333
+PA,all-surveys,"Westmoreland County, PA",Wouldn't vote,7,57,0.12280701754385964
+UT,all-surveys,"Salt Lake City County, UT",Joe Biden,7,50,0.14
+WV,all-surveys,WV DCR North Central Regional Jail,Joe Biden,7,75,0.09333333333333334
+AL,all-surveys,"Montgomery County, AL",Donald J. Trump,6,15,0.4
+AL,all-surveys,"Riverside Regional, VA",Wouldn't vote,6,24,0.25
+AZ,all-surveys,"Pinal County Jail, AZ",Third-Party Candidate,6,35,0.17142857142857143
+CA,all-surveys,"Butte County, CA",Joe Biden,6,46,0.13043478260869565
+CA,all-surveys,"Lassen County, CA",Donald J. Trump,6,10,0.6
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Don't know,6,69,0.08695652173913043
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Third-Party Candidate,6,69,0.08695652173913043
+CA,all-surveys,"Santa Barbara County, CA",Third-Party Candidate,6,53,0.11320754716981132
+CA,all-surveys,"Santa Barbara County, CA",Wouldn't vote,6,53,0.11320754716981132
+CA,all-surveys,"Tulare County, CA-PreTrial Facility ",Donald J. Trump,6,8,0.75
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Wouldn't vote,6,72,0.08333333333333333
+FL,all-surveys,"Sarasota County, FL",Joe Biden,6,48,0.125
+FL,all-surveys,"Sarasota County, FL",Wouldn't vote,6,48,0.125
+GA,all-surveys,"Cobb County, GA",Wouldn't vote,6,34,0.17647058823529413
+GA,all-surveys,"Columbia County Detention Center, GA",Joe Biden,6,21,0.2857142857142857
+GA,all-surveys,"Hall County Jail, GA",Donald J. Trump,6,10,0.6
+IA,all-surveys,"Polk County, IA ",Third-Party Candidate,6,31,0.1935483870967742
+IL,all-surveys,"Winnebago County, IL",Wouldn't vote,6,108,0.05555555555555555
+KS,all-surveys,"Douglas County, KS",Donald J. Trump,6,20,0.3
+KY,all-surveys,"Pulaski County, KY",Donald J. Trump,6,11,0.5454545454545454
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Joe Biden,6,24,0.25
+MA,all-surveys,"Bristol County House of Correction, MA",Joe Biden,6,48,0.125
+MA,all-surveys,"Middlesex County House of Corrections, MA",Third-Party Candidate,6,52,0.11538461538461539
+MA,all-surveys,"Middlesex County House of Corrections, MA",Wouldn't vote,6,52,0.11538461538461539
+MA,all-surveys,"Suffolk County Jail, MA",Third-Party Candidate,6,62,0.0967741935483871
+MA,all-surveys,"Worcester County Jail, MA",Joe Biden,6,51,0.11764705882352941
+MD,all-surveys,"Anne Arundel County, MD",Donald J. Trump,6,13,0.46153846153846156
+MI,all-surveys,"Monroe County Correctional System, MI",Donald J. Trump,6,9,0.6666666666666666
+NJ,all-surveys,"Mercer County Correction Center, NJ",Wouldn't vote,6,11,0.5454545454545454
+NM,all-surveys,"Luna County Detention Center, NM",Joe Biden,6,26,0.23076923076923078
+NY,all-surveys,"Chautauqua County, NY",Joe Biden,6,27,0.2222222222222222
+NY,all-surveys,"Chemung County Jail, NY",Donald J. Trump,6,10,0.6
+NY,all-surveys,"Delaware County Correctional Facility, NY",Donald J. Trump,6,12,0.5
+NY,all-surveys,"Herkimer County Correctional Facility, NY",Donald J. Trump,6,8,0.75
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Joe Biden,6,64,0.09375
+NY,all-surveys,"Niagara County Correctional Facility, NY",Third-Party Candidate,6,39,0.15384615384615385
+NY,all-surveys,"Suffolk County, NY ",Joe Biden,6,52,0.11538461538461539
+NY,all-surveys,"Suffolk County, NY ",Wouldn't vote,6,52,0.11538461538461539
+OH,all-surveys,"Columbiana County Jail, OH",Wouldn't vote,6,17,0.35294117647058826
+PA,all-surveys,"Berks County Jail, PA",Joe Biden,6,49,0.12244897959183673
+PA,all-surveys,"Chester County Prison, PA",Donald J. Trump,6,8,0.75
+PA,all-surveys,"Columbia County, PA",Donald J. Trump,6,17,0.35294117647058826
+PA,all-surveys,"Dauphin County Jail, PA",Don't know,6,84,0.07142857142857142
+PA,all-surveys,"Dauphin County Jail, PA",Joe Biden,6,84,0.07142857142857142
+PA,all-surveys,"Lehigh County, PA",Don't know,6,59,0.1016949152542373
+PA,all-surveys,"Northampton County Prison, PA",Donald J. Trump,6,10,0.6
+PA,all-surveys,"Northumberland County, PA",Donald J. Trump,6,9,0.6666666666666666
+PA,all-surveys,"Westmoreland County, PA",Don't know,6,57,0.10526315789473684
+PA,all-surveys,"York County, PA",Donald J. Trump,6,13,0.46153846153846156
+TX,all-surveys,"Collin County, TX ",Don't know,6,52,0.11538461538461539
+TX,all-surveys,"Collin County, TX ",Joe Biden,6,52,0.11538461538461539
+TX,all-surveys,"Potter County Detention, TX",Joe Biden,6,52,0.11538461538461539
+UT,all-surveys,"Salt Lake City County, UT",Third-Party Candidate,6,50,0.12
+UT,all-surveys,"Salt Lake City County, UT",Wouldn't vote,6,50,0.12
+UT,all-surveys,"Sevier County, UT",Donald J. Trump,6,6,1
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Don't know,6,82,0.07317073170731707
+WA,all-surveys,"Whatcom County, WA - Main Jail",Third-Party Candidate,6,23,0.2608695652173913
+WA,all-surveys,"Yakima County, WA",Don't know,6,86,0.06976744186046512
+WI,all-surveys,"Rock County, WI",Joe Biden,6,26,0.23076923076923078

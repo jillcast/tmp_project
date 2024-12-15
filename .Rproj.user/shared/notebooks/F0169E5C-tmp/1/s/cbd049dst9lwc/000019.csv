@@ -1,0 +1,6 @@
+"0",""
+"0","# join the datasets on facility_name"
+"0","women_jails <- left_join(jails_with_women, ready_for_woman_pres, by = ""facility_name"")"
+"0",""
+"0","# View the merged dataset"
+"0","print(women_jails)"

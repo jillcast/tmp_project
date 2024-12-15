@@ -1,0 +1,161 @@
+---
+title: "Voting and Jails Analysis for The Marshall Project"
+author: "Jill Castellano"
+date: "2024-12-14"
+output: html_document
+---
+
+<h2> Questions about and limitations with the data </h2>
+
+--how many people have answered in both surveys? <br>
+--jails with less than 5 responses are suppressed, so must use nationwide tibbles to get nationwide totals <br>
+--survey responses are not representative <br>
+--data is not broken down on individual level but aggregated to the level of each jail <br>
+--number of respondents in any given jail to these questions are pretty small <br>
+
+<h2> Setup </h2>
+
+```{r Import Files}
+
+library(tidyverse)
+
+# import all csv files in data folder into this project
+data_folder <- "../data/"
+
+# list all csv files in the folder
+csv_files <- list.files(path = data_folder, pattern = "\\.csv$", full.names = TRUE)
+
+# import each csv as a tibble in data_frames list
+data_frames <- csv_files %>%
+    set_names(~ str_remove(basename(.), "\\.csv$")) %>%  # remove .csv from filenames
+    map(~ as.data.frame(read_csv(.)))
+  
+# add each tibble as a data frame in the global environment
+list2env(data_frames, envir = .GlobalEnv)
+  
+# print names of the imported data frames
+print(names(data_frames))
+
+```
+
+<h2> Voting Eligibility </h2>
+
+```{r Voting Eligibility}
+
+# how many respondents are not sure of their eligibility to vote?
+head(eligible_to_vote)
+head(eligible_to_vote_nationwide)
+# 1,676 incarcerated people (20.8% of survey respondents) not sure about eligibility to vote
+
+# how does this break down for each jail?
+not_sure_eligibility <- eligible_to_vote %>%
+  filter(eligible_to_vote == "Not sure") %>%  # filter rows where eligible_to_vote is "Not sure"
+  arrange(desc(pct_of_respondents)) %>%  # sort by pct_of_respondents
+  select(state,facility_name,count,n_respondents,pct_of_respondents) #select columns of interest
+
+head(not_sure_eligibility)
+
+not_sure_eligibility %>%
+  filter(n_respondents > 50)
+# These facilities in texas, washington and Indiana could be interesting to contact
+
+# how do incarcerated people feel about whether they should vote?
+head(people_with_convictions_nationwide)
+# 57% of respondents said they should be able to vote while incarcerated 
+# note - question is worded "after they left prison" but these respondents are in jail, not prison
+# looks like there was no answer option like "they should never be allowed to vote"
+
+head(people_with_convictions) %>%
+  filter(people_with_convictions_should_vote == "While incarcerated for any crime") %>%
+  arrange(desc(pct_of_respondents))
+#interesting that three of the four jails listed here are in West Virginia
+
+head(vote_impact_government_level_nationwide)
+# about 30% think biggest impact will be at the state level
+
+```
+
+<h2> Voting in 2024 Election </h2>
+
+```{r Voting in 2024 Election}
+
+# compare likelihood of voting for major candidates in first and second survey
+head(who_vote_for_nationwide) #56% for Trump in first survey, 9.6% for Biden
+head(who_vote_for_supplement_nationwide) #52% for Trump second survey, 24.6% for Harris
+# interestingly, a LOT more support for Harris than for Biden
+
+# compare across jails for jails with more respondents (more than 50)
+
+# what percent of respondents said they would vote for biden in the first survey?
+biden_vote <- who_vote_for %>%
+  filter(who_vote_for == "Joe Biden",  # filter rows for Biden voters
+         n_respondents > 50) %>%  # filter for jails with more than 50 respondents
+  arrange(desc(pct_of_respondents)) %>%  # sort by pct_of_respondents
+  select(facility_name, pct_of_respondents) %>%  # select columns of interest
+  rename(pct_for_biden = pct_of_respondents)  # rename the column
+
+# what percent of respondents said they would vote for harris in the second survey?
+harris_vote <- who_vote_for_supplement %>%
+  filter(who_vote_for_supplement == "Kamala Harris",  # filter rows for Harris voters
+         n_respondents > 50) %>%  # filter for jails with more than 50 respondents
+  arrange(desc(pct_of_respondents)) %>%  # sort by pct_of_respondents
+  select(facility_name,pct_of_respondents) %>%  # select columns of interest
+  rename(pct_for_harris = pct_of_respondents)  # rename the column
+
+# join the datasets by facility_name
+biden_vs_harris <- left_join(biden_vote, harris_vote, by = "facility_name")
+
+# calculate the percentage point difference between support for harris and biden in the large facilities
+biden_vs_harris <- biden_vs_harris %>%
+  mutate(pct_point_difference = pct_for_harris - pct_for_biden) %>%  
+  arrange(desc(pct_point_difference))  # sort by pct_point_difference in descending order
+
+# view data
+print(biden_vs_harris)
+# biggest swing was in MTC Giles Dalby in Texas -- 25 percentage point difference
+
+# future analysis - how does gender and race of respondents affect their likelihood to vote for Trump/Biden?
+
+```
+<h2> Testing a Gender Effect </h2>
+
+```{r Gender effect}
+
+# are jails with more female respondents more likely to support kamala harris?
+
+# new dataset just showing jails with female respondents
+jails_with_women <- gender %>%
+  filter(gender == "Woman") %>%
+  select(facility_name, pct_of_respondents) %>%
+  arrange(desc(pct_of_respondents)) %>%
+  rename(pct_women = pct_of_respondents)
+
+#new dataset just showing "yes" answers to ready for woman president question
+ready_for_woman_pres <- us_ready_elect_woman_president %>% 
+  filter(us_ready_elect_woman_president == "Yes") %>%
+  select(facility_name, pct_of_respondents) %>%
+  arrange(desc(pct_of_respondents)) %>%
+  rename(pct_ready_for_woman_pres = pct_of_respondents)
+
+head(jails_with_women)
+head(ready_for_woman_pres)
+
+# join the datasets on facility_name
+women_jails <- left_join(jails_with_women, ready_for_woman_pres, by = "facility_name")
+
+# View the merged dataset
+print(women_jails)
+
+# create  scatter plot of results with a line of best fit
+ggplot(women_jails, aes(x = pct_women, y = pct_ready_for_woman_pres)) +
+  geom_point() +  # scatter plot
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +  # line of best fit
+  labs(title = "Percentage of Women Jails vs. Readiness for Woman President",
+       x = "Percentage of Women in Jails",
+       y = "Percentage Ready for Woman President") +
+  theme_minimal()
+
+# nothing significant here
+
+```
+

@@ -1,0 +1,23 @@
+state,answer_set,facility_name,people_with_convictions_should_vote,count,n_respondents,pct_of_respondents
+TX,all-surveys,"MTC: Giles Dalby, TX",While incarcerated for any crime,57,89,0.6404494382022472
+WV,all-surveys,WV DCR North Central Regional Jail,While incarcerated for any crime,47,74,0.6351351351351351
+TX,all-surveys,"MTC: Giles Dalby, TX",After they have left prison,23,89,0.25842696629213485
+WV,all-surveys,WV DCR Southwestern Regional Jail,While incarcerated for any crime,22,36,0.6111111111111112
+WV,all-surveys,WV DCR North Central Regional Jail,After they have left prison,20,74,0.2702702702702703
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,While incarcerated for any crime,19,40,0.475
+WV,all-surveys,WV DCR Western Regional Jail,While incarcerated for any crime,17,28,0.6071428571428571
+WV,all-surveys,WV DCR South Central Regional Jail,While incarcerated for any crime,14,24,0.5833333333333334
+DC,all-surveys,DC DOC: Central Detention Facility,While incarcerated for any crime,11,12,0.9166666666666666
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,While incarcerated for any crime,10,16,0.625
+WV,all-surveys,WV DCR Southern Regional Jail,After they have left prison,10,18,0.5555555555555556
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,After they have left prison,10,40,0.25
+WV,all-surveys,WV DCR Central Regional Jail,While incarcerated for any crime,9,22,0.4090909090909091
+TX,all-surveys,"MTC: Giles Dalby, TX","While incarcerated, but only if they were convicted of non-violent offenses",8,89,0.0898876404494382
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,"While incarcerated, but only if they were convicted of non-violent offenses",8,40,0.2
+TX,all-surveys,"GEO Group-Kinney County, TX",After they have left prison,7,16,0.4375
+WV,all-surveys,WV DCR Southern Regional Jail,While incarcerated for any crime,7,18,0.3888888888888889
+WV,all-surveys,WV DCR Southwestern Regional Jail,After they have left prison,7,36,0.19444444444444445
+WV,all-surveys,WV DCR Central Regional Jail,After they have left prison,6,22,0.2727272727272727
+WV,all-surveys,WV DCR North Central Regional Jail,"While incarcerated, but only if they were convicted of non-violent offenses",6,74,0.08108108108108109
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,After they have left prison,6,16,0.375
+WV,all-surveys,WV DCR Western Regional Jail,After they have left prison,6,28,0.21428571428571427

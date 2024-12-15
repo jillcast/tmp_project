@@ -1,0 +1,7 @@
+"0","# 57% of respondents said they should be able to vote while incarcerated "
+"0","# note - question is worded ""after they left prison"" but these respondents are in jail, not prison"
+"0","# looks like there was no answer option like ""they should never be allowed to vote"""
+"0",""
+"0","head(people_with_convictions) %>%"
+"0","  filter(people_with_convictions_should_vote == ""While incarcerated for any crime"") %>%"
+"0","  arrange(desc(pct_of_respondents))"

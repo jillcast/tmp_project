@@ -1,0 +1,419 @@
+state,answer_set,facility_name,skills_for_politics,count,n_respondents,pct_of_respondents
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Agree,224,491,0.45621181262729127
+IL,all-surveys,"Cook County, IL",Agree,181,409,0.44254278728606355
+CA,all-surveys,"Santa Clara County, CA",Agree,162,344,0.47093023255813954
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Strongly agree,122,491,0.2484725050916497
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Agree,102,226,0.45132743362831856
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Disagree,92,491,0.18737270875763748
+IL,all-surveys,"Cook County, IL",Strongly agree,89,409,0.2176039119804401
+CA,all-surveys,"Fresno County, CA",Agree,76,158,0.4810126582278481
+CA,all-surveys,"Santa Clara County, CA",Strongly agree,75,344,0.2180232558139535
+CA,all-surveys,"Santa Clara County, CA",Disagree,69,344,0.2005813953488372
+IL,all-surveys,"Cook County, IL",Disagree,68,409,0.16625916870415647
+TX,all-surveys,"Travis County Jail, TX",Agree,68,160,0.425
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Agree,67,151,0.44370860927152317
+CA,all-surveys,"Stanislaus County, CA",Agree,60,139,0.4316546762589928
+AZ,all-surveys,"Pima County Jail, AZ",Agree,58,146,0.3972602739726027
+IL,all-surveys,"Cook County, IL",Strongly disagree,55,409,0.13447432762836187
+CO,all-surveys,"Denver County Jail, CO",Agree,54,102,0.5294117647058824
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Strongly agree,53,226,0.2345132743362832
+AZ,all-surveys,"Maricopa County Sheriff's Office, AZ",Strongly disagree,50,491,0.10183299389002037
+IL,all-surveys,"Winnebago County, IL",Agree,49,99,0.494949494949495
+TX,all-surveys,"Travis County Jail, TX",Strongly agree,44,160,0.275
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Disagree,43,226,0.1902654867256637
+TX,all-surveys,"MTC: Giles Dalby, TX",Agree,43,91,0.4725274725274725
+CA,all-surveys,"Orange County, CA - Theo Lacy",Agree,41,91,0.45054945054945056
+PA,all-surveys,"Dauphin County Jail, PA",Agree,40,83,0.4819277108433735
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Agree,38,76,0.5
+CA,all-surveys,"San Joaquin County Jail, CA",Agree,37,76,0.4868421052631579
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Disagree,36,151,0.23841059602649006
+OH,all-surveys,"Mahoning County Justice Center, OH",Agree,36,78,0.46153846153846156
+PA,all-surveys,"Lehigh County, PA",Agree,36,58,0.6206896551724138
+AZ,all-surveys,"Pima County Jail, AZ",Strongly agree,34,146,0.2328767123287671
+CO,all-surveys,"Weld County, CO",Agree,34,89,0.38202247191011235
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Agree,34,81,0.41975308641975306
+WV,all-surveys,WV DCR North Central Regional Jail,Agree,34,73,0.4657534246575342
+CA,all-surveys,"Santa Clara County, CA",Strongly disagree,33,344,0.09593023255813954
+MI,all-surveys,"Kent County, MI ",Agree,33,68,0.4852941176470588
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Strongly agree,33,151,0.2185430463576159
+PA,all-surveys,"Lackawana County, PA",Agree,33,82,0.4024390243902439
+WA,all-surveys,"Yakima County, WA",Agree,33,80,0.4125
+CA,all-surveys,"Fresno County, CA",Strongly agree,32,158,0.20253164556962025
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Agree,32,72,0.4444444444444444
+CA,all-surveys,"Fresno County, CA",Disagree,30,158,0.189873417721519
+CA,all-surveys,"Stanislaus County, CA",Strongly agree,30,139,0.2158273381294964
+MA,all-surveys,"Essex County Middleton HOC, MA",Agree,30,59,0.5084745762711864
+TX,all-surveys,"Travis County Jail, TX",Disagree,30,160,0.1875
+MO,all-surveys,"St. Louis County Jail, MO",Agree,29,73,0.3972602739726027
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Agree,29,64,0.453125
+CO,all-surveys,"Pueblo County, CO",Agree,28,63,0.4444444444444444
+MA,all-surveys,"Bristol County House of Correction, MA",Agree,28,46,0.6086956521739131
+MA,all-surveys,"Middlesex County House of Corrections, MA",Agree,28,54,0.5185185185185185
+MI,all-surveys,"Macomb County, MI",Agree,28,52,0.5384615384615384
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Agree,27,67,0.40298507462686567
+NY,all-surveys,"Albany County Correctional Facility, NY",Agree,27,71,0.38028169014084506
+VA,all-surveys,"Chesapeake Correctional Center, VA",Agree,27,61,0.4426229508196721
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Strongly agree,27,81,0.3333333333333333
+AZ,all-surveys,"Pima County Jail, AZ",Disagree,26,146,0.1780821917808219
+AZ,all-surveys,"Pima County Jail, AZ",Strongly disagree,26,146,0.1780821917808219
+CA,all-surveys,"Stanislaus County, CA",Disagree,26,139,0.18705035971223022
+PA,all-surveys,"Westmoreland County, PA",Agree,26,56,0.4642857142857143
+WA,all-surveys,"Yakima County, WA",Disagree,26,80,0.325
+CO,all-surveys,"Jefferson County Detention Facility, CO",Agree,25,46,0.5434782608695652
+NC,all-surveys,"Cumberland County, NC",Agree,25,70,0.35714285714285715
+NE,all-surveys,"Lancaster County, NE",Agree,25,39,0.6410256410256411
+CO,all-surveys,"Denver County Jail, CO",Strongly agree,24,102,0.23529411764705882
+IN,all-surveys,"Hamilton County Main Jail, IN",Agree,24,63,0.38095238095238093
+MA,all-surveys,"Suffolk County Jail, MA",Agree,24,63,0.38095238095238093
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Agree,24,64,0.375
+NY,all-surveys,"Albany County Correctional Facility, NY",Disagree,24,71,0.3380281690140845
+TX,all-surveys,"McLennan County, TX",Agree,24,56,0.42857142857142855
+CO,all-surveys,"Mesa County, CO",Agree,23,59,0.3898305084745763
+MA,all-surveys,"Worcester County Jail, MA",Agree,23,50,0.46
+NY,all-surveys,"Suffolk County, NY ",Agree,23,51,0.45098039215686275
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Disagree,22,67,0.3283582089552239
+GA,all-surveys,"Bibb County Jail, GA",Agree,22,39,0.5641025641025641
+TX,all-surveys,"Potter County Detention, TX",Agree,22,52,0.4230769230769231
+CA,all-surveys,"Orange County, CA - Theo Lacy",Disagree,21,91,0.23076923076923078
+CA,all-surveys,"Santa Barbara County, CA",Agree,21,50,0.42
+CO,all-surveys,"Weld County, CO",Disagree,21,89,0.23595505617977527
+FL,all-surveys,"Sarasota County, FL",Agree,21,46,0.45652173913043476
+GA,all-surveys,"Athens Clarke County Jail, GA",Agree,21,50,0.42
+MO,all-surveys,"Cape Girardeau County Jail, MO",Agree,21,47,0.44680851063829785
+PA,all-surveys,"Berks County Jail, PA",Agree,21,48,0.4375
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Agree,21,55,0.38181818181818183
+PA,all-surveys,"Washington County, PA ",Agree,21,44,0.4772727272727273
+TX,all-surveys,"Collin County, TX ",Agree,21,52,0.40384615384615385
+TX,all-surveys,"MTC: Giles Dalby, TX",Disagree,21,91,0.23076923076923078
+WA,all-surveys,"Spokane County Jail, WA",Agree,21,71,0.29577464788732394
+CA,all-surveys,"Sacramento County Sheriff's Office, CA",Strongly disagree,20,226,0.08849557522123894
+CO,all-surveys,"Weld County, CO",Strongly agree,20,89,0.2247191011235955
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Disagree,20,76,0.2631578947368421
+IL,all-surveys,"Winnebago County, IL",Disagree,20,99,0.20202020202020202
+IL,all-surveys,"Winnebago County, IL",Strongly agree,20,99,0.20202020202020202
+NY,all-surveys,"Erie County, NY",Agree,20,46,0.43478260869565216
+PA,all-surveys,"Lackawana County, PA",Strongly agree,20,82,0.24390243902439024
+TX,all-surveys,"Johnson County, TX",Agree,20,37,0.5405405405405406
+TX,all-surveys,"MTC: Giles Dalby, TX",Strongly agree,20,91,0.21978021978021978
+UT,all-surveys,"Salt Lake City County, UT",Strongly agree,20,48,0.4166666666666667
+CA,all-surveys,"Madera County, CA",Agree,19,42,0.4523809523809524
+CA,all-surveys,"Orange County, CA - Theo Lacy",Strongly agree,19,91,0.2087912087912088
+FL,all-surveys,"Escambia County Jail, FL",Agree,19,34,0.5588235294117647
+FL,all-surveys,Santa Rosa County FL,Agree,19,41,0.4634146341463415
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Disagree,19,64,0.296875
+PA,all-surveys,"Dauphin County Jail, PA",Strongly agree,19,83,0.2289156626506024
+PA,all-surveys,"Lebanon County, PA",Agree,19,46,0.41304347826086957
+TX,all-surveys,"McLennan County, TX",Disagree,19,56,0.3392857142857143
+WA,all-surveys,"Spokane County Jail, WA",Disagree,19,71,0.2676056338028169
+IN,all-surveys,"Hamilton County Main Jail, IN",Disagree,18,63,0.2857142857142857
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Agree,18,33,0.5454545454545454
+MO,all-surveys,"St. Louis County Jail, MO",Disagree,18,73,0.2465753424657534
+MO,all-surveys,"St. Louis County Jail, MO",Strongly agree,18,73,0.2465753424657534
+OH,all-surveys,"Mahoning County Justice Center, OH",Disagree,18,78,0.23076923076923078
+PA,all-surveys,"Dauphin County Jail, PA",Disagree,18,83,0.21686746987951808
+TX,all-surveys,"Collin County, TX ",Strongly agree,18,52,0.34615384615384615
+TX,all-surveys,"Guadalupe County, TX",Agree,18,50,0.36
+VA,all-surveys,"Arlington County Detention Center, VA",Agree,18,29,0.6206896551724138
+VA,all-surveys,"Chesapeake Correctional Center, VA",Strongly agree,18,61,0.29508196721311475
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Agree,18,38,0.47368421052631576
+CA,all-surveys,"Butte County, CA",Agree,17,46,0.3695652173913043
+CA,all-surveys,"San Joaquin County Jail, CA",Strongly agree,17,76,0.2236842105263158
+IL,all-surveys,"Kane County, IL",Agree,17,36,0.4722222222222222
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Strongly agree,17,64,0.265625
+TX,all-surveys,"Guadalupe County, TX",Disagree,17,50,0.34
+UT,all-surveys,"Salt Lake City County, UT",Agree,17,48,0.3541666666666667
+AL,all-surveys,"Etowah County Jail, AL",Agree,16,31,0.5161290322580645
+CO,all-surveys,"Mesa County, CO",Strongly agree,16,59,0.2711864406779661
+MA,all-surveys,"Essex County Middleton HOC, MA",Disagree,16,59,0.2711864406779661
+MI,all-surveys,"Kent County, MI ",Disagree,16,68,0.23529411764705882
+NC,all-surveys,"Cumberland County, NC",Strongly agree,16,70,0.22857142857142856
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Agree,16,26,0.6153846153846154
+NY,all-surveys,"Erie County, NY",Strongly agree,16,46,0.34782608695652173
+NY,all-surveys,"Niagara County Correctional Facility, NY",Agree,16,39,0.41025641025641024
+PA,all-surveys,"Lackawana County, PA",Strongly disagree,16,82,0.1951219512195122
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Agree,16,41,0.3902439024390244
+WA,all-surveys,"Spokane County Jail, WA",Strongly agree,16,71,0.22535211267605634
+WV,all-surveys,WV DCR Southwestern Regional Jail,Agree,16,35,0.45714285714285713
+AZ,all-surveys,"Pinal County Jail, AZ",Agree,15,35,0.42857142857142855
+CA,all-surveys,"Alameda County-Santa Rita, CA",Agree,15,33,0.45454545454545453
+CA,all-surveys,"Santa Barbara County, CA",Strongly agree,15,50,0.3
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Strongly agree,15,72,0.20833333333333334
+CO,all-surveys,"Denver County Jail, CO",Disagree,15,102,0.14705882352941177
+CO,all-surveys,"Pueblo County, CO",Disagree,15,63,0.23809523809523808
+PA,all-surveys,"Delaware County, PA",Agree,15,24,0.625
+TX,all-surveys,"Travis County Jail, TX",Strongly disagree,15,160,0.09375
+WV,all-surveys,WV DCR Western Regional Jail,Agree,15,27,0.5555555555555556
+CA,all-surveys,"Fresno County, CA",Strongly disagree,14,158,0.08860759493670886
+CO,all-surveys,"Pueblo County, CO",Strongly agree,14,63,0.2222222222222222
+FL,all-surveys,"Lee County, FL",Agree,14,38,0.3684210526315789
+MI,all-surveys,"Livingston County, MI",Agree,14,25,0.56
+MO,all-surveys,"Cape Girardeau County Jail, MO",Disagree,14,47,0.2978723404255319
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Disagree,14,64,0.21875
+NJ,all-surveys,"Bergen County, NJ",Agree,14,32,0.4375
+OH,all-surveys,"Cuyahoga County Justice Center, OH",Strongly disagree,14,151,0.09271523178807947
+OH,all-surveys,"Muskingum County, OH",Agree,14,22,0.6363636363636364
+PA,all-surveys,"Fayette County, PA",Agree,14,27,0.5185185185185185
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Disagree,14,55,0.2545454545454545
+SC,all-surveys,"Richland County Glenn Detention Center, SC",Agree,14,24,0.5833333333333334
+VA,all-surveys,"Pamunkey Regional Jail, VA",Agree,14,36,0.3888888888888889
+VA,all-surveys,"Roanoke City Adult Detention Center, VA",Disagree,14,41,0.34146341463414637
+VA,all-surveys,"Virginia Beach Correctional Facility, VA",Disagree,14,81,0.1728395061728395
+VA,all-surveys,"Western Regional, VA",Agree,14,36,0.3888888888888889
+WV,all-surveys,WV DCR North Central Regional Jail,Disagree,14,73,0.1917808219178082
+CA,all-surveys,"Stanislaus County, CA",Strongly disagree,13,139,0.09352517985611511
+CO,all-surveys,"Douglas Detention Center, CO",Agree,13,32,0.40625
+GA,all-surveys,"Cobb County, GA",Agree,13,31,0.41935483870967744
+GA,all-surveys,"Dekalb County Jail, GA",Agree,13,31,0.41935483870967744
+IA,all-surveys,"Polk County, IA ",Agree,13,29,0.4482758620689655
+MA,all-surveys,"Suffolk County Jail, MA",Disagree,13,63,0.20634920634920634
+MA,all-surveys,"Suffolk County Jail, MA",Strongly agree,13,63,0.20634920634920634
+MI,all-surveys,"Kent County, MI ",Strongly agree,13,68,0.19117647058823528
+NC,all-surveys,"Cumberland County, NC",Disagree,13,70,0.18571428571428572
+NC,all-surveys,"Cumberland County, NC",Strongly disagree,13,70,0.18571428571428572
+OH,all-surveys,"Mahoning County Justice Center, OH",Strongly agree,13,78,0.16666666666666666
+PA,all-surveys,"Montgomery County Correctional Facility, PA",Strongly agree,13,55,0.23636363636363636
+TX,all-surveys,"Guadalupe County, TX",Strongly agree,13,50,0.26
+TX,all-surveys,"Potter County Detention, TX",Strongly agree,13,52,0.25
+WV,all-surveys,WV DCR North Central Regional Jail,Strongly agree,13,73,0.1780821917808219
+CA,all-surveys,"Butte County, CA",Disagree,12,46,0.2608695652173913
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Disagree,12,72,0.16666666666666666
+CO,all-surveys,"Weld County, CO",Strongly disagree,12,89,0.1348314606741573
+FL,all-surveys,"Lee County, FL",Strongly agree,12,38,0.3157894736842105
+FL,all-surveys,"Sarasota County, FL",Strongly agree,12,46,0.2608695652173913
+MA,all-surveys,"Middlesex County House of Corrections, MA",Strongly agree,12,54,0.2222222222222222
+MA,all-surveys,"Worcester County Jail, MA",Disagree,12,50,0.24
+NC,all-surveys,Durham County NC - Detention Facility,Agree,12,19,0.631578947368421
+OH,all-surveys,"Summit County, OH",Agree,12,31,0.3870967741935484
+OH,all-surveys,"Summit County, OH",Disagree,12,31,0.3870967741935484
+PA,all-surveys,"Lackawana County, PA",Disagree,12,82,0.14634146341463414
+TX,all-surveys,"Wichita County, TX ",Agree,12,28,0.42857142857142855
+WA,all-surveys,"Spokane County Jail, WA",Strongly disagree,12,71,0.16901408450704225
+WA,all-surveys,"Yakima County, WA",Strongly agree,12,80,0.15
+AL,all-surveys,"Riverside Regional, VA",Strongly agree,11,23,0.4782608695652174
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Strongly agree,11,67,0.16417910447761194
+CA,all-surveys,"San Joaquin County Jail, CA",Disagree,11,76,0.14473684210526316
+CA,all-surveys,"Ventura County Sheriff's Office, CA",Strongly disagree,11,72,0.1527777777777778
+CO,all-surveys,"Jefferson County Detention Facility, CO",Strongly agree,11,46,0.2391304347826087
+FL,all-surveys,Santa Rosa County FL,Strongly agree,11,41,0.2682926829268293
+IN,all-surveys,"Boone County, IN",Agree,11,22,0.5
+KS,all-surveys,"Douglas County, KS",Agree,11,19,0.5789473684210527
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Agree,11,24,0.4583333333333333
+MA,all-surveys,"Middlesex County House of Corrections, MA",Disagree,11,54,0.2037037037037037
+MI,all-surveys,"Macomb County, MI",Disagree,11,52,0.21153846153846154
+MI,all-surveys,"Macomb County, MI",Strongly agree,11,52,0.21153846153846154
+MO,all-surveys,"Cape Girardeau County Jail, MO",Strongly agree,11,47,0.23404255319148937
+NJ,all-surveys,"Camden County Department of Corrections, NJ",Agree,11,18,0.6111111111111112
+NY,all-surveys,"Albany County Correctional Facility, NY",Strongly agree,11,71,0.15492957746478872
+NY,all-surveys,"Chautauqua County, NY",Agree,11,27,0.4074074074074074
+NY,all-surveys,"Suffolk County, NY ",Disagree,11,51,0.21568627450980393
+OH,all-surveys,"Lorain County, OH ",Agree,11,29,0.3793103448275862
+OR,all-surveys,"Lincoln County, OR",Agree,11,35,0.3142857142857143
+PA,all-surveys,"Lebanon County, PA",Strongly agree,11,46,0.2391304347826087
+PA,all-surveys,"Westmoreland County, PA",Strongly agree,11,56,0.19642857142857142
+UT,all-surveys,"Beaver County, UT",Agree,11,27,0.4074074074074074
+WV,all-surveys,WV DCR North Central Regional Jail,Strongly disagree,11,73,0.1506849315068493
+AZ,all-surveys,"Yavapai County Jail, AZ",Agree,10,22,0.45454545454545453
+CA,all-surveys,"Orange County, CA - Theo Lacy",Strongly disagree,10,91,0.10989010989010989
+CO,all-surveys,"Larimer County, CO",Agree,10,28,0.35714285714285715
+CO,all-surveys,"Mesa County, CO",Strongly disagree,10,59,0.1694915254237288
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Strongly agree,10,76,0.13157894736842105
+IN,all-surveys,"Hamilton County Main Jail, IN",Strongly agree,10,63,0.15873015873015872
+IN,all-surveys,"Hamilton County Main Jail, IN",Strongly disagree,10,63,0.15873015873015872
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Agree,10,27,0.37037037037037035
+MA,all-surveys,"Bristol County House of Correction, MA",Disagree,10,46,0.21739130434782608
+MA,all-surveys,"Hampshire County, MA",Agree,10,16,0.625
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Agree,10,24,0.4166666666666667
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Agree,10,27,0.37037037037037035
+NM,all-surveys,"Luna County Detention Center, NM",Agree,10,25,0.4
+OR,all-surveys,"Lincoln County, OR",Strongly agree,10,35,0.2857142857142857
+PA,all-surveys,"Allegheny County Jail, PA",Agree,10,15,0.6666666666666666
+PA,all-surveys,"Berks County Jail, PA",Disagree,10,48,0.20833333333333334
+PA,all-surveys,"Franklin County, PA",Agree,10,24,0.4166666666666667
+PA,all-surveys,"Lehigh County, PA",Disagree,10,58,0.1724137931034483
+PA,all-surveys,"Washington County, PA ",Disagree,10,44,0.22727272727272727
+PA,all-surveys,"Westmoreland County, PA",Disagree,10,56,0.17857142857142858
+TX,all-surveys,"Collin County, TX ",Disagree,10,52,0.19230769230769232
+TX,all-surveys,"McLennan County, TX",Strongly agree,10,56,0.17857142857142858
+WI,all-surveys,"Rock County, WI",Agree,10,26,0.38461538461538464
+WV,all-surveys,WV DCR South Central Regional Jail,Agree,10,24,0.4166666666666667
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Strongly agree,10,38,0.2631578947368421
+CA,all-surveys,"Madera County, CA",Disagree,9,42,0.21428571428571427
+CA,all-surveys,"Madera County, CA",Strongly agree,9,42,0.21428571428571427
+CA,all-surveys,"San Joaquin County Jail, CA",Strongly disagree,9,76,0.11842105263157894
+CA,all-surveys,"Santa Barbara County, CA",Disagree,9,50,0.18
+CO,all-surveys,"La Plata County, CO ",Agree,9,15,0.6
+CO,all-surveys,"Mesa County, CO",Disagree,9,59,0.15254237288135594
+FL,all-surveys,"Nassau County, FL",Agree,9,16,0.5625
+FL,all-surveys,Santa Rosa County FL,Disagree,9,41,0.21951219512195122
+GA,all-surveys,"Athens Clarke County Jail, GA",Strongly agree,9,50,0.18
+GA,all-surveys,"Athens Clarke County Jail, GA",Strongly disagree,9,50,0.18
+GA,all-surveys,"Columbia County Detention Center, GA",Agree,9,20,0.45
+MA,all-surveys,"Norfolk County Jail, MA",Agree,9,23,0.391304347826087
+MA,all-surveys,"Norfolk County Jail, MA",Disagree,9,23,0.391304347826087
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Disagree,9,33,0.2727272727272727
+MA,all-surveys,"Suffolk County Jail, MA",Strongly disagree,9,63,0.14285714285714285
+MD,all-surveys,"Anne Arundel County, MD",Agree,9,14,0.6428571428571429
+MT,all-surveys,"Missoula County, MT",Strongly agree,9,21,0.42857142857142855
+NM,all-surveys,"Chaves County Adult Detention Center, NM",Disagree,9,27,0.3333333333333333
+NM,all-surveys,"Lea County Sheriff's Office, NM",Agree,9,17,0.5294117647058824
+NY,all-surveys,"Niagara County Correctional Facility, NY",Strongly agree,9,39,0.23076923076923078
+NY,all-surveys,"Onondaga County-Justice Center, NY",Agree,9,24,0.375
+NY,all-surveys,"Suffolk County, NY ",Strongly agree,9,51,0.17647058823529413
+OR,all-surveys,"Lincoln County, OR",Disagree,9,35,0.2571428571428571
+PA,all-surveys,"Berks County Jail, PA",Strongly agree,9,48,0.1875
+PA,all-surveys,"Cambria County Prison, PA",Agree,9,18,0.5
+SC,all-surveys,"Clarendon County, SC",Agree,9,12,0.75
+TX,all-surveys,"Hunt County, TX",Agree,9,21,0.42857142857142855
+TX,all-surveys,"Johnson County, TX",Strongly agree,9,37,0.24324324324324326
+TX,all-surveys,"Potter County Detention, TX",Disagree,9,52,0.17307692307692307
+UT,all-surveys,"Beaver County, UT",Strongly agree,9,27,0.3333333333333333
+VA,all-surveys,"Chesapeake Correctional Center, VA",Disagree,9,61,0.14754098360655737
+VA,all-surveys,"Western Regional, VA",Disagree,9,36,0.25
+WA,all-surveys,"Whatcom County, WA - Main Jail",Disagree,9,21,0.42857142857142855
+WI,all-surveys,"Dodge County, WI",Agree,9,26,0.34615384615384615
+WV,all-surveys,WV DCR Potomac Highlands Regional Jail,Agree,9,16,0.5625
+WV,all-surveys,WV DCR Southwestern Regional Jail,Strongly agree,9,35,0.2571428571428571
+AZ,all-surveys,"Pinal County Jail, AZ",Strongly agree,8,35,0.22857142857142856
+CA,all-surveys,"Butte County, CA",Strongly agree,8,46,0.17391304347826086
+CA,all-surveys,"Sonoma County, CA",Agree,8,16,0.5
+CO,all-surveys,"Denver County Jail, CO",Strongly disagree,8,102,0.0784313725490196
+CO,all-surveys,"Douglas Detention Center, CO",Disagree,8,32,0.25
+CO,all-surveys,"Douglas Detention Center, CO",Strongly agree,8,32,0.25
+CO,all-surveys,"Larimer County, CO",Strongly agree,8,28,0.2857142857142857
+FL,all-surveys,"Escambia County Jail, FL",Disagree,8,34,0.23529411764705882
+FL,all-surveys,"Sarasota County, FL",Disagree,8,46,0.17391304347826086
+GA,all-surveys,"Athens Clarke County Jail, GA",Disagree,8,50,0.16
+GA,all-surveys,"Bibb County Jail, GA",Strongly agree,8,39,0.20512820512820512
+GA,all-surveys,"Gwinnett County Sheriffs Office, GA",Strongly disagree,8,76,0.10526315789473684
+IL,all-surveys,"Kane County, IL",Disagree,8,36,0.2222222222222222
+IL,all-surveys,"Madison County, IL",Agree,8,17,0.47058823529411764
+KY,all-surveys,"Clay County Detention Center, KY",Agree,8,13,0.6153846153846154
+KY,all-surveys,"Madison County, KY",Agree,8,17,0.47058823529411764
+MA,all-surveys,"Franklin County Jail, MA",Agree,8,11,0.7272727272727273
+MA,all-surveys,"Worcester County Jail, MA",Strongly agree,8,50,0.16
+ME,all-surveys,"Two Bridges Regional, ME",Agree,8,17,0.47058823529411764
+MI,all-surveys,"Genesee County, MI",Agree,8,22,0.36363636363636365
+MI,all-surveys,"Kalamazoo County, MI",Disagree,8,20,0.4
+NE,all-surveys,"Lancaster County, NE",Disagree,8,39,0.20512820512820512
+NJ,all-surveys,"Bergen County, NJ",Strongly agree,8,32,0.25
+NJ,all-surveys,"Ocean County, NJ",Agree,8,16,0.5
+NM,all-surveys,"Luna County Detention Center, NM",Disagree,8,25,0.32
+NY,all-surveys,"Chemung County Jail, NY",Agree,8,11,0.7272727272727273
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Strongly agree,8,64,0.125
+NY,all-surveys,"Niagara County Correctional Facility, NY",Disagree,8,39,0.20512820512820512
+NY,all-surveys,"Onondaga County-Justice Center, NY",Disagree,8,24,0.3333333333333333
+OH,all-surveys,"Mahoning County Justice Center, OH",Strongly disagree,8,78,0.10256410256410256
+OH,all-surveys,"Portage County, OH",Agree,8,18,0.4444444444444444
+PA,all-surveys,"Adam County, PA - Adult Correctional Complex",Agree,8,15,0.5333333333333333
+PA,all-surveys,"Lebanon County, PA",Disagree,8,46,0.17391304347826086
+PA,all-surveys,"Lebanon County, PA",Strongly disagree,8,46,0.17391304347826086
+TX,all-surveys,"Hunt County, TX",Disagree,8,21,0.38095238095238093
+TX,all-surveys,"Potter County Detention, TX",Strongly disagree,8,52,0.15384615384615385
+VA,all-surveys,"Botetourt Craig Public Safety Facility, VA",Agree,8,15,0.5333333333333333
+VA,all-surveys,"Pamunkey Regional Jail, VA",Disagree,8,36,0.2222222222222222
+VA,all-surveys,"Pamunkey Regional Jail, VA",Strongly agree,8,36,0.2222222222222222
+WI,all-surveys,"Dodge County, WI",Strongly agree,8,26,0.3076923076923077
+WI,all-surveys,"Rock County, WI",Strongly agree,8,26,0.3076923076923077
+WV,all-surveys,WV DCR Central Regional Jail,Disagree,8,22,0.36363636363636365
+WV,all-surveys,WV DCR South Central Regional Jail,Strongly agree,8,24,0.3333333333333333
+WV,all-surveys,WV DCR Southern Regional Jail,Agree,8,18,0.4444444444444444
+AL,all-surveys,"Etowah County Jail, AL",Strongly agree,7,31,0.22580645161290322
+AL,all-surveys,"Montgomery County, AL",Agree,7,15,0.4666666666666667
+AL,all-surveys,"Riverside Regional, VA",Agree,7,23,0.30434782608695654
+AZ,all-surveys,"Apache County Jail, AZ",Strongly agree,7,20,0.35
+AZ,all-surveys,"Pinal County Jail, AZ",Disagree,7,35,0.2
+CA,all-surveys,"Alameda County-Santa Rita, CA",Disagree,7,33,0.21212121212121213
+CA,all-surveys,"Alameda County-Santa Rita, CA",Strongly disagree,7,33,0.21212121212121213
+CA,all-surveys,"Orange County, CA - Central Jail Complex",Strongly disagree,7,67,0.1044776119402985
+GA,all-surveys,"Bibb County Jail, GA",Disagree,7,39,0.1794871794871795
+GA,all-surveys,"Catoosa County Jail, GA",Agree,7,15,0.4666666666666667
+GA,all-surveys,"Cobb County, GA",Strongly agree,7,31,0.22580645161290322
+GA,all-surveys,"Dekalb County Jail, GA",Disagree,7,31,0.22580645161290322
+GA,all-surveys,"Forsyth County Detention Center, GA",Strongly agree,7,17,0.4117647058823529
+GA,all-surveys,"Thomas County Detention, GA",Agree,7,18,0.3888888888888889
+IA,all-surveys,"Polk County, IA ",Strongly agree,7,29,0.2413793103448276
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Disagree,7,27,0.25925925925925924
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Strongly agree,7,24,0.2916666666666667
+MA,all-surveys,"Essex County Middleton HOC, MA",Strongly agree,7,59,0.11864406779661017
+MI,all-surveys,"Kalamazoo County, MI",Agree,7,20,0.35
+MO,all-surveys,"St. Louis County Jail, MO",Strongly disagree,7,73,0.0958904109589041
+MT,all-surveys,"Missoula County, MT",Agree,7,21,0.3333333333333333
+NC,all-surveys,"Mecklenburg County Sheriffs Office,  NC",Strongly disagree,7,64,0.109375
+NJ,all-surveys,"Hudson County Corrections Center, NJ",Agree,7,16,0.4375
+NM,all-surveys,"Eddy County Detention Center, NM",Agree,7,19,0.3684210526315789
+NY,all-surveys,"Albany County Correctional Facility, NY",Strongly disagree,7,71,0.09859154929577464
+NY,all-surveys,"Chautauqua County, NY",Disagree,7,27,0.25925925925925924
+NY,all-surveys,"Saratoga County Correctional Facility, NY",Agree,7,11,0.6363636363636364
+NY,all-surveys,"Suffolk County, NY ",Strongly disagree,7,51,0.13725490196078433
+NY,all-surveys,"Ulster County Jail, NY",Agree,7,17,0.4117647058823529
+OH,all-surveys,"Columbiana County Jail, OH",Agree,7,17,0.4117647058823529
+OH,all-surveys,"Fairfield County, OH",Agree,7,12,0.5833333333333334
+OH,all-surveys,"Greene County, OH: Adult Detention",Agree,7,18,0.3888888888888889
+PA,all-surveys,"Berks County Jail, PA",Strongly disagree,7,48,0.14583333333333334
+PA,all-surveys,"Columbia County, PA",Strongly agree,7,16,0.4375
+PA,all-surveys,"Lehigh County, PA",Strongly agree,7,58,0.1206896551724138
+PA,all-surveys,"Westmoreland County, PA",Strongly disagree,7,56,0.125
+SC,all-surveys,"Aiken County, SC",Agree,7,15,0.4666666666666667
+TX,all-surveys,"GEO Group-Kinney County, TX",Agree,7,16,0.4375
+TX,all-surveys,"MTC: Giles Dalby, TX",Strongly disagree,7,91,0.07692307692307693
+TX,all-surveys,"Wichita County, TX ",Strongly agree,7,28,0.25
+VA,all-surveys,"Western Regional, VA",Strongly agree,7,36,0.19444444444444445
+WA,all-surveys,"Whatcom County, WA - Main Jail",Agree,7,21,0.3333333333333333
+WV,all-surveys,WV DCR Central Regional Jail,Agree,7,22,0.3181818181818182
+WV,all-surveys,WV DCR Southwestern Regional Jail,Disagree,7,35,0.2
+WV,all-surveys,WV DCR Western Regional Jail,Strongly agree,7,27,0.25925925925925924
+AL,all-surveys,"Etowah County Jail, AL",Disagree,6,31,0.1935483870967742
+CA,all-surveys,"Tulare County, CA-Bob Wiley Detention ",Agree,6,10,0.6
+CA,all-surveys,"Tuolumne-Dambacher Detention Center, CA",Agree,6,12,0.5
+CO,all-surveys,"Jefferson County Detention Facility, CO",Disagree,6,46,0.13043478260869565
+CO,all-surveys,"Larimer County, CO",Disagree,6,28,0.21428571428571427
+FL,all-surveys,"Lee County, FL",Disagree,6,38,0.15789473684210525
+FL,all-surveys,"Lee County, FL",Strongly disagree,6,38,0.15789473684210525
+GA,all-surveys,"Dekalb County Jail, GA",Strongly disagree,6,31,0.1935483870967742
+GA,all-surveys,"Forsyth County Detention Center, GA",Agree,6,17,0.35294117647058826
+IL,all-surveys,"Cook County, IL","Agree, Strongly agree",6,409,0.014669926650366748
+IL,all-surveys,Edovo Go - General,Agree,6,14,0.42857142857142855
+IL,all-surveys,"Kane County, IL",Strongly agree,6,36,0.16666666666666666
+KY,all-surveys,"Lexington-Fayette County Detention Center, KY",Strongly agree,6,27,0.2222222222222222
+KY,all-surveys,"Madison County, KY",Strongly agree,6,17,0.35294117647058826
+KY,all-surveys,"Pulaski County, KY",Agree,6,11,0.5454545454545454
+MA,all-surveys,"Barnstable County Correctional Facility, MA",Disagree,6,24,0.25
+MA,all-surveys,"Berkshire County House of Corrections, MA",Agree,6,17,0.35294117647058826
+MA,all-surveys,"Berkshire County House of Corrections, MA",Disagree,6,17,0.35294117647058826
+MA,all-surveys,"Plymouth County Correctional Facility, MA",Strongly agree,6,33,0.18181818181818182
+MA,all-surveys,"Worcester County Jail, MA",Strongly disagree,6,50,0.12
+MD,all-surveys,"Washington County Detention Center, MD",Agree,6,14,0.42857142857142855
+ME,all-surveys,"Two Bridges Regional, ME",Strongly agree,6,17,0.35294117647058826
+MI,all-surveys,"Genesee County, MI",Disagree,6,22,0.2727272727272727
+MI,all-surveys,"Genesee County, MI",Strongly agree,6,22,0.2727272727272727
+NE,all-surveys,"Scotts Bluff County Detention Center, NE",Strongly agree,6,26,0.23076923076923078
+NJ,all-surveys,"Bergen County, NJ",Strongly disagree,6,32,0.1875
+NJ,all-surveys,"Burlington County Department of Corrections, NJ",Strongly agree,6,24,0.25
+NY,all-surveys,"Delaware County Correctional Facility, NY",Agree,6,12,0.5
+NY,all-surveys,"Erie County, NY",Disagree,6,46,0.13043478260869565
+NY,all-surveys,"Monroe County Sheriff's Department, NY",Strongly disagree,6,64,0.09375
+NY,all-surveys,"Onondaga County, NY",Strongly agree,6,13,0.46153846153846156
+NY,all-surveys,"Rensselaer County Correctional Facility, NY",Agree,6,11,0.5454545454545454
+OH,all-surveys,"Greene County, OH: Adult Detention",Strongly agree,6,18,0.3333333333333333
+OH,all-surveys,"Lorain County, OH ",Disagree,6,29,0.20689655172413793
+OH,all-surveys,"Lorain County, OH ",Strongly agree,6,29,0.20689655172413793
+OH,all-surveys,"Portage County, OH",Disagree,6,18,0.3333333333333333
+OH,all-surveys,"Scioto County, OH ",Agree,6,10,0.6
+PA,all-surveys,"Cambria County Prison, PA",Disagree,6,18,0.3333333333333333
+PA,all-surveys,"Chester County Prison, PA",Agree,6,9,0.6666666666666666
+PA,all-surveys,"Franklin County, PA",Disagree,6,24,0.25
+PA,all-surveys,"Washington County, PA ",Strongly agree,6,44,0.13636363636363635
+PA,all-surveys,"York County, PA",Strongly agree,6,13,0.46153846153846156
+TX,all-surveys,"Johnson County, TX",Strongly disagree,6,37,0.16216216216216217
+UT,all-surveys,"Iron County, UT",Disagree,6,15,0.4
+UT,all-surveys,"Salt Lake City County, UT",Strongly disagree,6,48,0.125
+VA,all-surveys,"Arlington County Detention Center, VA",Disagree,6,29,0.20689655172413793
+VA,all-surveys,"Blue Ridge Regional Jail Authority, VA",Agree,6,10,0.6
+VA,all-surveys,"Chesapeake Correctional Center, VA",Strongly disagree,6,61,0.09836065573770492
+VA,all-surveys,"Meherrin River Alberta, VA",Strongly agree,6,13,0.46153846153846156
+VA,all-surveys,"Middle Peninsula Regional Jail, VA",Disagree,6,13,0.46153846153846156
+VA,all-surveys,"Pamunkey Regional Jail, VA",Strongly disagree,6,36,0.16666666666666666
+WI,all-surveys,"Ozaukee County, WI",Agree,6,8,0.75
+WI,all-surveys,"Rock County, WI",Disagree,6,26,0.23076923076923078
+WI,all-surveys,"Winnebago County, WI",Agree,6,11,0.5454545454545454
+WV,all-surveys,WV DCR Tygart Valley Regional Jail,Disagree,6,38,0.15789473684210525

@@ -1,0 +1,3 @@
+"0",""
+"0","# compare likelihood of voting for major candidates in first and second survey"
+"0","head(who_vote_for_nationwide) #56% for Trump in first survey, 9.6% for Biden"

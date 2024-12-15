@@ -1,0 +1,28 @@
+{
+    "id": "2A4A8B70",
+    "path": "~/Documents/R projects/tmp/scripts/tmp.Rmd",
+    "project_path": "scripts/tmp.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1734207569313.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,41",
+        "scrollLine": "0",
+        "last_setup_crc32": "9511d0e0ed412cbe"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1734296551,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1734296551207,
+    "read_only": false,
+    "read_only_alternatives": []
+}
